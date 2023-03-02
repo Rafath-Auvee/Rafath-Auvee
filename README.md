@@ -1,7 +1,6 @@
 
 <a href=#><img src="contributions.svg"></a>
-
-      <table
+<table
         cellpadding="0.1"
         cellspacing="0.1"
         border="0.1"
@@ -24,4 +23,3 @@
           </td>
         </tr>
       </table>
-      
