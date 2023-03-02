@@ -1,5 +1,7 @@
-
+<div align="center">
 <a href=#><img src="contributions.svg"></a>
+<div>
+
 <table
         cellpadding="0.1"
         cellspacing="0.1"
