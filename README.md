@@ -1,7 +1,6 @@
 
 <a href=#><img src="contributions.svg"></a>
 
-![](https://komarev.com/ghpvc/?username=Rafath-Bin-Zafar-Auvee&color=blueviolet&style=flat-square)
       <table
         cellpadding="0.1"
         cellspacing="0.1"
@@ -25,10 +24,4 @@
           </td>
         </tr>
       </table>
-      <p align="center">
-        <img
-          src="https://github-profile-trophy.vercel.app/?username=Rafath-Bin-Zafar-Auvee&theme=nord&column=8&row=1&margin-w=8"
-          alt="logo"
-          height="170"
-        />
-      </p>
+      
