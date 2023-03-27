@@ -105,4 +105,19 @@
 </td></tr></table>
 </div>        
         
+
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+	
+[![Fuad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rafath-Auvee&theme=github	)](https://github.com/Rafath-Auvee/github-readme-activity-graph)
+
+</details>
+
+<details><summary> <h3>😎 Git profile Trophies </h3></summary>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rafath-Auvee&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+	
+</details>
+        
+        
 <a href=#><img src="contributions.svg"></a>
