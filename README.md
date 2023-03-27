@@ -47,6 +47,14 @@
 <!-- <a href=#><img src="contributions.svg"></a> -->
 
 	
+<!-- 
+<a href="https://api.githubtrends.io/user/svg/Rafath-Auvee/repos?time_range=one_year&group=other&theme=synthwaves" target="_blank">
+<img src="https://api.githubtrends.io/user/svg/Rafath-Auvee/repos?time_range=one_year&group=other&theme=synthwaves"/>
+</a>
+
+<br>
+<br> -->
+	
 
 ## My Skill Set
 
