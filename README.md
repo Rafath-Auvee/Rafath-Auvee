@@ -3,7 +3,7 @@
         
 [![gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
 
-        
+       
         
 <div>
 <table
@@ -29,4 +29,74 @@
           </td>
         </tr>
       </table>
+        
+        
+<!-- <a href=#><img src="contributions.svg"></a> -->
+
+### Frontend
+
+<div align="center">    
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="NextJS" height="50" /></a> 
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>      
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
+
+</td></tr><tr><td valign="top" width="100%">
+
+### Backend
+
+<div align="center"> 
+<!-- <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="50" /></a>   -->
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<!-- <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   -->
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<!-- <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="MysQl" height="50" /></a>     -->
+<a href="https://strapi.io/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/strapi-icon-256x253-fr8b6jhy.png" alt="Strapi" height="50" /></a>     
+<a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" alt="Mongoose" height="50" /></a>     
+<a href="https://www.sanity.io/" target="_blank"><img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_96102ac6497377cd53da621075fe828e/sanity.png" alt="Sanity" height="50" /></a> 
+</div>
+
+</td>
+</tr>
+ <tr><td>
+   
+   
+### Languages
+
+<div align="center">    
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>    
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
+<!-- <a href="https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf" target="_blank"><img style="margin: 10px" src="https://assets.exercism.io/tracks/x86-64-assembly-hex-turquoise.png" alt="Assembly Language" height="50" /></a>       -->
+<!-- <a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/java.svg" alt="Java" height="50" /></a> -->
+</div>
+
+</td></tr>
+<tr><td>
+
+
+</td></tr>
+
+<tr>
+<td valign="top" >
+
+### Deployment
+
+<div align="center">  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>   
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="Firebase" height="50" /></a>   
+<a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="Firebase" height="50" /></a>   
+<a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_477db83f729d63210139ec7cd29c1351/render-render.png" alt="Firebase" height="50" /></a>     
+<a href="https://www.cyclic.sh/" target="_blank"><img style="margin: 10px" src="https://www.cyclic.sh/images/cyclic-logo.png" alt="Cyclic" height="50" /></a> 
+</div>
+
+</td></tr></table>
+</div>        
+        
 <a href=#><img src="contributions.svg"></a>
