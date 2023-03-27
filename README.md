@@ -136,5 +136,9 @@
 	
 </details>
         
+	
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=foadtkf&&style=flat-square" align="center" />
+</div>	
         
 <a href=#><img src="contributions.svg"></a>
