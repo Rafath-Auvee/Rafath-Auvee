@@ -32,6 +32,12 @@
         
         
 <!-- <a href=#><img src="contributions.svg"></a> -->
+## My Skill Set
+
+<table>
+  <tr></tr>
+  <tr><td valign="top" width="100%">
+
 
 ### Frontend
 
