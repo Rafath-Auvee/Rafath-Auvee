@@ -56,7 +56,7 @@
 <br> -->
 	
 
-## My Skill Set
+## My Skills
 
 	
 <table>
