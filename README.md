@@ -134,7 +134,7 @@
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 	
-[![Fuad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rafath-Auvee&theme=github	)](https://github.com/Rafath-Auvee/github-readme-activity-graph)
+[![Rafath's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rafath-Auvee&theme=github)](https://github.com/Rafath-Auvee/github-readme-activity-graph)
 
 </details>
 
